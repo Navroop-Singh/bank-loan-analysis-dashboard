@@ -5,3 +5,9 @@ The goal is to develop a comprehensive loan analytics dashboard that provides in
 Additionally, the project classifies loans into Good Loans and Bad Loans based on repayment behavior, enabling better risk assessment and decision-making. A detailed grid view is also created to analyze loan status with metrics such as total applications, funded amount, received amount, interest rates, and debt-to-income ratio (DTI).
 
 This analysis helps the bank improve lending strategies, reduce risk, and optimize financial performance through data-driven insights.
+
+The main dashboard file is available in this repository:
+
+Bank_Loan_Project.pbix
+
+Note: GitHub does not preview .pbix files. Please download and open it in Power BI Desktop.
